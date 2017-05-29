@@ -5,5 +5,9 @@
 	"dependencies": {},
 	"devDependencies": {
 		"jquery": ">=1.12 <2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dev4s/orbit.git"
 	}
 }
